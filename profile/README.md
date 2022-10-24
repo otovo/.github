@@ -16,7 +16,7 @@ Otovo is building a platform that connects homeowners wanting to upgrade their h
 
 ## Our tech stack
 
-Being a fairly small team we like technologies that give each engieer a lot of leverage. These include:
+Being a fairly small team we like technologies that give each engineer a lot of leverage. These include:
 
 - [Postgresql](https://www.postgresql.org/)
 - [Pyhon](https://www.python.org/) and [Django](https://www.djangoproject.com/)
