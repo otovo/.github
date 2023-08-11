@@ -7,12 +7,13 @@
 
 ## Hi there ☀️
 
-We're one of Europe's fastest-growing green tech start-ups, and we're determined to make our dream of bringing **local and clean energy** to every home a reality 🌱
+At Otovo, we believe the world urgently needs easy, trustworthy, and affordable access to clean energy. As one of Europe's fastest-growing green tech start-ups, our dream is to bring local and clean energy to every European home 🌱.
 
-Otovo is building a platform that connects homeowners wanting to upgrade their house with solar and batteries with local installers. Our platform optimizes to keep installers busy doing what they do best in a safe and efficient manner, while giving customers a trustworthy and delightful experience. This way we are speeding up the energy transition away from fossil fuels, all over Europe.
+We are building a thriving marketplace that seamlessly connects homeowners eager for sustainable living with skilled local installation companies. Our platform ensures that installers can focus on what they do best in a safe and efficient manner, granting customers an experience that's both trustworthy and delightful. By bridging this gap, we're accelerating the energy transition away from fossil fuels throughout Europe.
 
-<img src="https://www.otovo.com/images/map-2022.svg" width="50%" />
+Join us on this mission, and let's lead Europe into a clean, electrified future together.
 
+<img src="https://www.otovo.com/images/social-map-2023.svg" width="60%" />
 
 ## Our tech stack
 
