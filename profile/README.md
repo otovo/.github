@@ -13,7 +13,9 @@ We are building a thriving marketplace that seamlessly connects homeowners eager
 
 Join us on this mission, and let's lead Europe into a clean, electrified future together.
 
+<a href="https://careers.otovo.com/positions?department=Product&utm_source=github">
 <img src="https://www.otovo.com/images/social-map-2023.svg" width="60%" />
+</a>
 
 ## Our tech stack
 
@@ -32,4 +34,4 @@ These all help us iterate fast. We ship daily.
 
 ## We're hiring
 
-If you're passionate about using technology to solve the biggest challenges and build solutions that matter, please [check out our open positions](https://careers.otovo.com/) ✌️
+If you're passionate about using technology to solve the biggest challenges and build solutions that matter, please [check out our open positions](https://careers.otovo.com/positions?department=Product&utm_source=github) ✌️
