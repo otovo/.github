@@ -32,6 +32,8 @@ We like technologies that give small teams a lot of leverage. Across our systems
 These all help us iterate fast. We ship daily.
 
 
-## Work with us
+## Service first, AI native
 
-If you're passionate about making distributed energy systems reliable, serviceable, and easier to own, please [check out our open positions](https://careers.otovo.com/positions?utm_source=github).
+Customers come to Otovo when their energy system needs to work, be understood, or be fixed. We build for that moment: fast answers, clear ownership, trusted technicians, and service that keeps people informed instead of leaving them to chase updates.
+
+AI is part of how we deliver that promise. We use it to watch systems continuously, summarize complex signals, triage issues, guide support teams, and route the right work to the right people. The goal is simple: make energy ownership feel protected, responsive, and human.
