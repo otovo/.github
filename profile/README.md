@@ -5,34 +5,44 @@
 </picture>
 
 
-## Hi there
+## Energy systems should feel looked after.
 
-Otovo builds software and operations for residential and commercial energy systems.
+Otovo is an AI-native energy services company for homes and businesses across the EU and the US.
 
-Today our products help solar, battery, generator, and EV charger owners keep their systems working: AI monitoring, expert repair coordination, customer care, field operations, and retail electricity where we serve it directly. In Europe, Otovo also provides leasing, service, and partner distribution for home energy systems at scale.
+Solar panels, batteries, generators, EV chargers, inverters, meters, utility rates, service appointments, warranties, trucks, technicians, customers: distributed energy only works when all of it works together. That is what we build.
 
-Our engineering work spans customer apps, operational tooling, automation, infrastructure, and the Endurance platform that triages issues, routes work, and supports service teams in the field.
+Our platform, Endurance, watches energy systems continuously, turns noisy device signals into clear diagnoses, coordinates customer care, and routes the right work to the right expert. The product is not just monitoring. It is the operating system for service: know what happened, explain it clearly, fix it quickly, and keep the customer in the loop.
+
+We believe great energy service should feel calm. Customers should not need to decode inverter alerts, chase installers, or wonder whether backup power will be there when they need it. Software should carry the complexity, and people should feel protected by the system around them.
 
 <a href="https://www.otovo.com">
 <img src="https://www.otovo.com/images/social-map-2023.svg" width="60%" />
 </a>
 
-## Our tech stack
+## What we build
 
-We like technologies that give small teams a lot of leverage. Across our systems you will find:
+- AI monitoring and diagnostics for solar, batteries, generators, EV chargers, and related equipment
+- Customer apps that make system health, service, and membership benefits understandable
+- Internal tools for care teams, dispatchers, technicians, sales, finance, and operations
+- Field-service workflows that connect cases, inventory, trucks, schedules, and repairs
+- Retail-energy and optimization systems where Otovo supplies and manages power directly
+- Infrastructure that keeps the service responsive across regions, outages, and growth
 
-- [PostgreSQL](https://www.postgresql.org/)
-- [Rust](https://www.rust-lang.org/)
-- [TypeScript](https://www.typescriptlang.org/), [SvelteKit](https://svelte.dev/), [Next.js](https://nextjs.org/), and [React](https://react.dev/)
-- [Expo](https://expo.dev/) and [React Native](https://reactnative.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
+## How we build
+
+We run close to the customer and close to production. The same product loop can include a telemetry anomaly, an AI summary, a support workflow, a technician route, and a customer notification. That forces us to care about the whole chain: data quality, latency, reliability, observability, useful interfaces, and whether the person on the other side actually gets helped.
+
+Our stack is built for leverage:
+
+- [Rust](https://www.rust-lang.org/) for fast, reliable service paths
+- [PostgreSQL](https://www.postgresql.org/) for operational truth and set-based work
+- [TypeScript](https://www.typescriptlang.org/), [SvelteKit](https://svelte.dev/), [Next.js](https://nextjs.org/), and [React](https://react.dev/) for web products
+- [Expo](https://expo.dev/) and [React Native](https://reactnative.dev/) for mobile
+- [Tailwind CSS](https://tailwindcss.com/) for practical UI systems
 - [Kubernetes](https://kubernetes.io/) on self-hosted bare metal, with [Cloudflare](https://www.cloudflare.com/) at the edge
 
-These all help us iterate fast. We ship daily.
+We ship daily because the grid is changing daily, customers need answers now, and energy service gets better when the feedback loop is short.
 
+## The direction
 
-## Service first, AI native
-
-Customers come to Otovo when their energy system needs to work, be understood, or be fixed. We build for that moment: fast answers, clear ownership, trusted technicians, and service that keeps people informed instead of leaving them to chase updates.
-
-AI is part of how we deliver that promise. We use it to watch systems continuously, summarize complex signals, triage issues, guide support teams, and route the right work to the right people. The goal is simple: make energy ownership feel protected, responsive, and human.
+Otovo is moving from "install the system" to "stand behind the system." AI is how we scale the attention. Service is how customers feel the difference.
