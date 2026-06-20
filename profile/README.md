@@ -15,9 +15,6 @@ Our platform, Endurance, watches energy systems continuously, turns noisy device
 
 We believe great energy service should feel calm. Customers should not need to decode inverter alerts, chase installers, or wonder whether backup power will be there when they need it. Software should carry the complexity, and people should feel protected by the system around them.
 
-<a href="https://www.otovo.com">
-<img src="https://www.otovo.com/images/social-map-2023.svg" width="60%" />
-</a>
 
 ## What we build
 
