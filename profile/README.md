@@ -22,7 +22,6 @@ Our engineering work spans customer apps, operational tooling, automation, infra
 We like technologies that give small teams a lot of leverage. Across our systems you will find:
 
 - [PostgreSQL](https://www.postgresql.org/)
-- [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/)
 - [Rust](https://www.rust-lang.org/)
 - [TypeScript](https://www.typescriptlang.org/), [SvelteKit](https://svelte.dev/), [Next.js](https://nextjs.org/), and [React](https://react.dev/)
 - [Expo](https://expo.dev/) and [React Native](https://reactnative.dev/)
