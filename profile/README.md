@@ -27,7 +27,7 @@ We like technologies that give small teams a lot of leverage. Across our systems
 - [TypeScript](https://www.typescriptlang.org/), [SvelteKit](https://svelte.dev/), [Next.js](https://nextjs.org/), and [React](https://react.dev/)
 - [Expo](https://expo.dev/) and [React Native](https://reactnative.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [AWS](https://aws.amazon.com/), [Cloudflare](https://www.cloudflare.com/), and [Kubernetes](https://kubernetes.io/)
+- [Kubernetes](https://kubernetes.io/) on self-hosted bare metal, with [Cloudflare](https://www.cloudflare.com/) at the edge
 
 These all help us iterate fast. We ship daily.
 
