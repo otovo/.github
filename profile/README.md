@@ -5,33 +5,33 @@
 </picture>
 
 
-## Hi there ☀️
+## Hi there
 
-At Otovo, we believe the world urgently needs easy, trustworthy, and affordable access to clean energy. As one of Europe's fastest-growing green tech start-ups, our dream is to bring local and clean energy to every European home 🌱.
+Otovo builds software and operations for residential and commercial energy systems.
 
-We are building a thriving marketplace that seamlessly connects homeowners eager for sustainable living with skilled local installation companies. Our platform ensures that installers can focus on what they do best in a safe and efficient manner, granting customers an experience that's both trustworthy and delightful. By bridging this gap, we're accelerating the energy transition away from fossil fuels throughout Europe.
+Today our products help solar, battery, generator, and EV charger owners keep their systems working: AI monitoring, expert repair coordination, customer care, field operations, and retail electricity where we serve it directly. In Europe, Otovo also provides leasing, service, and partner distribution for home energy systems at scale.
 
-Join us on this mission, and let's lead Europe into a clean, electrified future together.
+Our engineering work spans customer apps, operational tooling, automation, infrastructure, and the Endurance platform that triages issues, routes work, and supports service teams in the field.
 
-<a href="https://careers.otovo.com/positions?department=Product&utm_source=github">
+<a href="https://www.otovo.com">
 <img src="https://www.otovo.com/images/social-map-2023.svg" width="60%" />
 </a>
 
 ## Our tech stack
 
-Being a fairly small team we like technologies that give each engieer a lot of leverage. These include:
+We like technologies that give small teams a lot of leverage. Across our systems you will find:
 
-- [Postgresql](https://www.postgresql.org/)
-- [Pyhon](https://www.python.org/) and [Django](https://www.djangoproject.com/)
-- [Typescript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/) and [React](https://reactjs.org/)
-- [Tailwindcss](https://tailwindcss.com/)
-- [GraphQL](https://graphql.org/)
-- [Sanity](https://www.sanity.io/)
-- [AWS](https://aws.amazon.com/) and [Vercel](https://vercel.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/)
+- [Rust](https://www.rust-lang.org/)
+- [TypeScript](https://www.typescriptlang.org/), [SvelteKit](https://svelte.dev/), [Next.js](https://nextjs.org/), and [React](https://react.dev/)
+- [Expo](https://expo.dev/) and [React Native](https://reactnative.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [AWS](https://aws.amazon.com/), [Cloudflare](https://www.cloudflare.com/), and [Kubernetes](https://kubernetes.io/)
 
 These all help us iterate fast. We ship daily.
 
 
-## We're hiring
+## Work with us
 
-If you're passionate about using technology to solve the biggest challenges and build solutions that matter, please [check out our open positions](https://careers.otovo.com/positions?department=Product&utm_source=github) ✌️
+If you're passionate about making distributed energy systems reliable, serviceable, and easier to own, please [check out our open positions](https://careers.otovo.com/positions?utm_source=github).
